@@ -200,3 +200,8 @@
 #define SD_DETECT_PIN                       -1    // PF0, but it isn't connected
 #define SDIO_CLOCK                       4500000
 #define SDIO_READ_RETRIES                     16
+
+
+#if ENABLED(BLTOUCH)
+#define SERVO0_PIN PD12
+#endif
