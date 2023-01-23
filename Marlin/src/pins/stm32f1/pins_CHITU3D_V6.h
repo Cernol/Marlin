@@ -203,5 +203,5 @@
 
 
 #if ENABLED(BLTOUCH)
-#define SERVO0_PIN PD12
+#define SERVO0_PIN PB11
 #endif
