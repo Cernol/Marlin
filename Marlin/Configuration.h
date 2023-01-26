@@ -214,7 +214,7 @@
   #define XY2_MODELS 1
   #define X_BED_SIZE 255
   #define Y_BED_SIZE 255
-  #define Z_MAX_POS 260
+  #define Z_MAX_POS 200
   #define CUSTOM_MACHINE_NAME "Tronxy XY-2PRO"
 
 #elif XY2_V6_255_TITAN_TMC
